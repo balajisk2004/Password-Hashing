@@ -214,26 +214,8 @@ New password: NewPass@456
 Confirm new password: NewPass@456
 
 ✅ Password changed successfully!
+
 ```
-
----
-
-## 📁 Project Structure
-
-```text
-secure-auth-system/
-│
-├── login_system.py         # Main application
-├── requirements.txt        # Dependencies
-├── README.md               # Documentation
-├── database_setup.sql      # Database schema
-└── screenshots/            # Demo images
-    ├── register.png
-    ├── login.png
-    └── locked.png
-```
-
----
 
 ## 🔄 How It Works
 
